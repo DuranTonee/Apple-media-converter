@@ -3,7 +3,7 @@ Convert Apple specific files like .heic and .mov to .jpg and .mp4 (Linux) with a
 
 Linux OS is required only for using and managing the virtual environment. The script itself is cross-platform.
 
-ffmpeg is required (https://ffmpeg.org/)
+[ffmpeg](https://ffmpeg.org/download.html) is required
 
 
 debian/ubuntu:
